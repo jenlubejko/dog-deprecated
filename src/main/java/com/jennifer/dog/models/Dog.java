@@ -1,4 +1,4 @@
-package com.jennifer.pet.models;
+package com.jennifer.dog.models;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

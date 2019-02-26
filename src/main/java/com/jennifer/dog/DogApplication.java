@@ -1,13 +1,13 @@
-package com.jennifer.pet;
+package com.jennifer.dog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PetApplication {
+public class DogApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PetApplication.class, args);
+		SpringApplication.run(DogApplication.class, args);
 	}
 
 }

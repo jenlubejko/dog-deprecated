@@ -1,7 +1,7 @@
-package com.jennifer.pet.controllers;
+package com.jennifer.dog.controllers;
 
-import com.jennifer.pet.models.Dog;
-import com.jennifer.pet.repositories.DogRepository;
+import com.jennifer.dog.models.Dog;
+import com.jennifer.dog.repositories.DogRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

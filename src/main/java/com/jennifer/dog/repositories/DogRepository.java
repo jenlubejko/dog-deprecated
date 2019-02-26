@@ -1,6 +1,6 @@
-package com.jennifer.pet.repositories;
+package com.jennifer.dog.repositories;
 
-import com.jennifer.pet.models.Dog;
+import com.jennifer.dog.models.Dog;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface DogRepository extends JpaRepository<Dog, Long> {
